@@ -23,6 +23,7 @@ The research emphasizes the importance of multimodal fusion and contextual reaso
 While the proposed model demonstrates promising results, it has certain limitations:
 
 Contextual Prioritization: The model tends to focus on overarching themes of videos rather than specific objects or persons mentioned in questions. For example, when asked "Who is the man wearing a red hat?", the model may respond with "The city skyline is visible" instead of identifying the man with the red hat.
+
 Question-Video Feature Mismatch: The model's behavior suggests a mismatch between the higher-level features extracted from the video input and the specific details required by the question input.
 
 ## Conclusion  
